@@ -1,6 +1,6 @@
 # fake_weather
 
-A new Flutter project.
+A project to help learn Cubit/Bloc from scratch
 
 ## Getting Started
 
