@@ -1,4 +1,4 @@
-# fake_weather
+# fakeweather
 
 A project to help learn Cubit/Bloc from scratch
 
